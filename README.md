@@ -1,4 +1,4 @@
-# Experiment Result Of MP-GAN (.gif)
+# Experiment Result Of MP-GAN (.gif, We recommend using Google Chrome to view)
 ## Hight-diverse identify-preserving face synthesis result
 ### Change Pose
 ![image](https://github.com/yuhanM01/MP-GAN/blob/master/pose.gif)
