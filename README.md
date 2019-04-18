@@ -1,5 +1,7 @@
 # Experiment Result Of MP-GAN (.gif, We recommend using Google Chrome to view)
 ## Hight-diverse identify-preserving face synthesis result
+### Origin Image
+![image](https://github.com/yuhanM01/MP-GAN/blob/master/origin.jpg)
 ### Change Pose
 ![image](https://github.com/yuhanM01/MP-GAN/blob/master/pose.gif)
 
