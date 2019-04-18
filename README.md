@@ -1,1 +1,1 @@
-![expr.gif](https://github.com/yuhanM01/MP-GAN/master/g.gif)
+![image](https://github.com/yuhanM01/MP-GAN/blob/master/expr.gif)
